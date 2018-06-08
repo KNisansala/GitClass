@@ -11,9 +11,7 @@ and open the template in the editor.
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1>ABOUT US</h1>
         
         <script src="js/jquery-3.3.1.js" type="text/javascript"></script>
         
