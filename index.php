@@ -196,6 +196,8 @@ and open the template in the editor.
             </div>
         </div>
     </section>
+    
+    <h1>Git Class Project</h1>
 
     <!-- Footer -->
     <?php
