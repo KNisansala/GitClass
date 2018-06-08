@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
 
-
+        <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <!-- Header -->
         <?php
         include 'header.php';
