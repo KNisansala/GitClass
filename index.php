@@ -200,6 +200,7 @@ and open the template in the editor.
     </section>
     
     <h1>Git Class Project</h1>
+    <h1>Git Class Project2</h1>
 
     <!-- Footer -->
     <?php
