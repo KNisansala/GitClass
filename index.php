@@ -34,6 +34,8 @@ and open the template in the editor.
                 <br>
                 <center><img src="images/people.jpg" style="width: 700px;" alt=""/></center>
             </div>
+            
+            <img src="images/banner2.jpg" alt=""/>
         </div>
 
         <!-- Container (Services) -->
